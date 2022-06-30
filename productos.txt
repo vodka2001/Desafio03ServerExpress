@@ -1,0 +1,1 @@
+[{"id":1,"titulo":"CachafazDeMaicena","precio":120,"url":"URL://"},{"id":2,"title":"COCACOLAlata","precio":100,"url":"URL://"},{"id":3,"title":"MOGUL","precio":80,"url":"URL://"}]
